@@ -1,4 +1,124 @@
 
+  {
+    "series": "LFG1",
+    "card": "00",
+    "asset": "UNITECRYPTO",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/UNITECRYPTO?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/UNITECRYPTO.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "01",
+    "asset": "LFGOPEPE",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGOPEPE?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGOPEPE800X1120.JPG"
+  },
+  {
+    "series": "LFG1",
+    "card": "03",
+    "asset": "LFGSUBMIT",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGSUBMIT?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFG%20SUB800.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "04",
+    "asset": "LFGORBITAL",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGORBITAL?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGORBITALCRYSTALS.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "08",
+    "asset": "PEPETRUMPFGT",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/PEPETRUMPFGT?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/b050QXr.jpeg"
+  },
+  {
+    "series": "LFG1",
+    "card": "09",
+    "asset": "TRUMPWOJAK",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/TRUMPWOJAK?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/MBnTsJI.jpeg"
+  },
+  {
+    "series": "LFG1",
+    "card": "11",
+    "asset": "LFGFRIEND",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGFRIEND?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/lfgfriend%20-%20Copy.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "14",
+    "asset": "LFGMARKET",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGMARKET?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/lfgmarket.jpeg"
+  },
+  {
+    "series": "LFG1",
+    "card": "20",
+    "asset": "LFGTENNIS",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGTENNIS?marketsTab=swaps",
+    "image": "IMAGE_URL_MISSING"
+  },
+  {
+    "series": "LFG1",
+    "card": "22",
+    "asset": "LFGLUTNICK",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGLUTNICK?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGLUTNICK.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "23",
+    "asset": "JUSTICELFG",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/JUSTICELFG?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/9nmum8_image.png"
+  },
+  {
+    "series": "LFG1",
+    "card": "24",
+    "asset": "PAPETOLFG",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/PAPETOLFG?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/PAPETOLFG.gif"
+  },
+  {
+    "series": "LFG1",
+    "card": "25",
+    "asset": "LFGOFFICIAL",
+    "issuance": "",
+    "artist": "",
+    "link": "https://horizon.market/explorer/assets/LFGOFFICIAL?marketsTab=swaps",
+    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGOFFICIAL.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": "27"
 "asset": "MEETLENNY",
     "issuance": "",
     "artist": "",
