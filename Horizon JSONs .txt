@@ -1,4 +1,4 @@
-
+[
   {
     "series": "LFG1",
     "card": "00",
@@ -118,129 +118,11 @@
   },
   {
     "series": "LFG1",
-    "card": "27"
-"asset": "MEETLENNY",
+    "card": "27",
+    "asset": "MEETLENNY",
     "issuance": "",
     "artist": "",
     "link": "https://horizon.market/explorer/assets/MEETLENNY?marketsTab=swaps",
     "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/MEET%20LENNY.jpeg"
-  },
-  {
-    "series": "LFG1",
-    "card": "47",
-    "asset": "PEPEINCOMMON",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/PEPEINCOMMON?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/nkpgq3_image.jpg"
-  },
-  {
-    "series": "LFG1",
-    "card": "48",
-    "asset": "LFGBANANAS",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGBANANAS?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/npvwte_image.jpg"
-  },
-  {
-    "series": "LFG1",
-    "card": "49",
-    "asset": "CODYSAYSTHNX",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/CODYSAYSTHNX?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/CODYSAYSTHNX.jpg"
-  },
-  {
-    "series": "LFG1",
-    "card": "50",
-    "asset": "LFGROOM",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGROOM?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGROOM.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "01",
-    "asset": "PEPEPAUL",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/PEPEPAUL?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/PEPEPAUL.gif"
-  },
-  {
-    "series": "LFG2",
-    "card": "02",
-    "asset": "CHESSBOYS",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/CHESSBOYS?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/CHESSBOYS.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "03",
-    "asset": "LFGOBSERVER",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGOBSERVER?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGOBSERVER.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "05",
-    "asset": "LFGAFRODITE",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGAFRODITE?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGAFRODITE.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "07",
-    "asset": "LFGSPEAKER",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGSPEAKER?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGSPEAKER.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "08",
-    "asset": "LFGCOLLECTOR",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGCOLLECTOR?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGCOLLECTOR.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "09",
-    "asset": "EHOKAYPEPE",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/EHOKAYPEPE?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/EHOKAYPEPE.jpg"
-  },
-  {
-    "series": "LFG2",
-    "card": "10",
-    "asset": "LFGCHEKPOINT",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGCHEKPOINT?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGCHEKPOINT.jpg"
-  },
-  {
-
-"series": "LFG2",
-    "card": "11",
-    "asset": "LFGPEPE",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGPEPE?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGPEPE.jpg"
   }
 ]
