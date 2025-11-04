@@ -1,128 +1,812 @@
 [
   {
     "series": "LFG1",
-    "card": "00",
+    "card": 0,
     "asset": "UNITECRYPTO",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/UNITECRYPTO?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/UNITECRYPTO.jpg"
+    "issuance": 315,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/UNITECRYPTO",
+    "image": "https://arweave.net/bcapNdnHiks-dvSmi7UJQcbaAq7pZLudBzsPcFFtuHE/unitecrypto.jpg"
   },
   {
     "series": "LFG1",
-    "card": "01",
+    "card": 1,
     "asset": "LFGOPEPE",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGOPEPE?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGOPEPE800X1120.JPG"
+    "issuance": 11,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGOPEPE",
+    "image": "https://arweave.net/Us5dnEhXDwi8hTkN3OMA3f98iLm3OLh7BWIRbyeNj_A/lfgopepe.jpg"
   },
   {
     "series": "LFG1",
-    "card": "03",
+    "card": 3,
     "asset": "LFGSUBMIT",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGSUBMIT?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFG%20SUB800.jpg"
+    "issuance": 2227,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGSUBMIT",
+    "image": "https://arweave.net/couPTl8PWJXKvCmolzYKSTw1gx4bGbrq9EtKvtfk6G8/lfgsubmit.jpg"
   },
   {
     "series": "LFG1",
-    "card": "04",
+    "card": 4,
     "asset": "LFGORBITAL",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGORBITAL?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGORBITALCRYSTALS.jpg"
+    "issuance": 451,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGORBITAL",
+    "image": "https://arweave.net/GdfXul4WiW_NnXSXTmYoGHI6c0VjxFy605wPesGP6JE/lfgorbital.jpg"
   },
   {
     "series": "LFG1",
-    "card": "08",
+    "card": 8,
     "asset": "PEPETRUMPFGT",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/PEPETRUMPFGT?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/b050QXr.jpeg"
+    "issuance": 300,
+    "artist": "Hariram",
+    "link": "https://horizon.market/explorer/assets/PEPETRUMPFGT",
+    "image": "https://arweave.net/Et3zqt9TSvhVLARav_XVFjCXPZRwqPaQfcp_Qd-RtTY/pepetrumpfgt.jpg"
   },
   {
     "series": "LFG1",
-    "card": "09",
+    "card": 9,
     "asset": "TRUMPWOJAK",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/TRUMPWOJAK?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/MBnTsJI.jpeg"
+    "issuance": 150,
+    "artist": "Hariram",
+    "link": "https://horizon.market/explorer/assets/TRUMPWOJAK",
+    "image": "https://arweave.net/aYYUPcgX1dwQhaF6XEv_coMbFg0O2nas2exPIr0e9eA/trumpwojak.jpg"
   },
   {
     "series": "LFG1",
-    "card": "11",
+    "card": 11,
     "asset": "LFGFRIEND",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGFRIEND?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/lfgfriend%20-%20Copy.jpg"
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGFRIEND",
+    "image": "https://arweave.net/pOQERw4yJKDqfJ-BVSkl-k1Jlk0_vONMKlo7GVXto_s/lfgfriend.jpg"
   },
   {
     "series": "LFG1",
-    "card": "14",
+    "card": 14,
     "asset": "LFGMARKET",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGMARKET?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/lfgmarket.jpeg"
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGMARKET",
+    "image": "https://arweave.net/Zv63-5_89xJ5KLqOvn6c76G92Bf2TDMRXUicpnAYKPo/lfgmarket.jpg"
   },
   {
     "series": "LFG1",
-    "card": "20",
+    "card": 20,
     "asset": "LFGTENNIS",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGTENNIS?marketsTab=swaps",
-    "image": "IMAGE_URL_MISSING"
+    "issuance": 88,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGTENNIS",
+    "image": "https://arweave.net/mJz4Z2mhGmK63t7LpjT0QYs4BoH7OzAnB7J46M5TxPg/lfgtennis.jpg"
   },
   {
     "series": "LFG1",
-    "card": "22",
+    "card": 22,
     "asset": "LFGLUTNICK",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGLUTNICK?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGLUTNICK.jpg"
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGLUTNICK",
+    "image": "https://arweave.net/KAmwVX76ZhOtA9kic-S3c7jn_pPcL3mgAA7SYDlqEGk/lfglutnick.jpg"
   },
   {
     "series": "LFG1",
-    "card": "23",
+    "card": 23,
     "asset": "JUSTICELFG",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/JUSTICELFG?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/9nmum8_image.png"
+    "issuance": 222,
+    "artist": "BLISSFULMORG",
+    "link": "https://horizon.market/explorer/assets/JUSTICELFG",
+    "image": "https://arweave.net/4ySvpd7vPZitLVCqHNlBRY4fOmcSc6UJuzfGz8AA7-g/justicelfg.png"
   },
   {
     "series": "LFG1",
-    "card": "24",
+    "card": 24,
     "asset": "PAPETOLFG",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/PAPETOLFG?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/PAPETOLFG.gif"
+    "issuance": 100,
+    "artist": "papeto",
+    "link": "https://horizon.market/explorer/assets/PAPETOLFG",
+    "image": "https://arweave.net/3hCpimIDmyhayMQzUFKl7PLPHfhzCwlmm-OjhqBTR-s/papetolfg.gif"
   },
   {
     "series": "LFG1",
-    "card": "25",
+    "card": 25,
     "asset": "LFGOFFICIAL",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/LFGOFFICIAL?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/LFGOFFICIAL.jpg"
+    "issuance": 88,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGOFFICIAL",
+    "image": "https://arweave.net/BJwkr210bU_DwpmZz2YVAuu8ivcJER_I2yb5laVWMuk/lfgofficial.jpg"
   },
   {
     "series": "LFG1",
-    "card": "27",
+    "card": 27,
+    "asset": "LFGMATHS",
+    "issuance": 10,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGMATHS",
+    "image": "https://arweave.net/RGRYa7Y2QwNzcvI0CciiXKa_96NN3o-lx3lZuxvLXe4/lfgmaths.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 29,
+    "asset": "PEPEPATEL",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEPATEL",
+    "image": "https://arweave.net/-dylmpxV8NY348ZPGVXDffXPSX9atFEvohZJlG5f4BY/pepepatel.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 30,
+    "asset": "TREASURYPEPE",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/TREASURYPEPE",
+    "image": "https://arweave.net/hPPCj0nvFUMei-NtrtZWqndNwXAAR2vffmvxz1Dtx2I/treasurypepe.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 31,
+    "asset": "PEPEJDOG",
+    "issuance": 28,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEJDOG",
+    "image": "https://arweave.net/_KwYu6GnzwdqStcIzrb8-maRRc3Wzkwez_okth-ORFI/pepejdog.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 32,
+    "asset": "GMPEPES",
+    "issuance": 111,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/GMPEPES",
+    "image": "https://arweave.net/VWd1W_xZDRr4C9IgErXOWeSCUtsrrcEnE384cYKt6pw/gmpepes.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 33,
+    "asset": "BONDIPEPE",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/BONDIPEPE",
+    "image": "https://arweave.net/38DUyFaoTLYTF8cPnfqM0Xk3UpRUZNvXVuWJzqyWrck/bondipepe.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 34,
+    "asset": "CRYPTOCZAR",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/CRYPTOCZAR",
+    "image": "https://arweave.net/VbzLQDv5ZIr9IBelKZ3y74Z-4bC3wJ5ez_dOQcKWFiw/cryptoczar.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 35,
+    "asset": "ORANGEFIGHT",
+    "issuance": 82,
+    "artist": "GabDevs",
+    "link": "https://horizon.market/explorer/assets/ORANGEFIGHT",
+    "image": "https://arweave.net/MgdmlCmI9S30l669QcFPX1VaXXQZ24zz5mhL9V56j3g/orangefight.png"
+  },
+  {
+    "series": "LFG1",
+    "card": 39,
+    "asset": "PEPELUMMIS",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPELUMMIS",
+    "image": "https://arweave.net/Fk0MiYOPfXtjcHVaWMlqrgktE9BXxecJJbiPp0m3dlk/pepelummis.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 40,
+    "asset": "LFGEVOLVE",
+    "issuance": 10,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGEVOLVE",
+    "image": "https://arweave.net/mjK1yYK6KyBkzHf8yfBfP_RDc96tRwdaIgf3Vjx4afQ/lfgevolve.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 41,
+    "asset": "FAKTELEPHONE",
+    "issuance": 21,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/FAKTELEPHONE",
+    "image": "https://arweave.net/zeC4klw39-oEynLk-XdxbWBOSSJ2WNZizAvcTy0xH4s/faketelephone.png"
+  },
+  {
+    "series": "LFG1",
+    "card": 44,
+    "asset": "PROJECTKNIFE",
+    "issuance": 25,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/PROJECTKNIFE",
+    "image": "https://arweave.net/jllsl1AA-qCPSyf4RamyhUvW4mJvTk_qjqz8NEMq9Gg/projectknife.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 45,
+    "asset": "NRFTW",
+    "issuance": 22,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/NRFTW",
+    "image": "https://arweave.net/2NHJ1BcOerQovtTDqKWf0WWZriQwQXiz4OGr2KoTFNs/nrftw.mp4"
+  },
+  {
+    "series": "LFG1",
+    "card": 46,
     "asset": "MEETLENNY",
-    "issuance": "",
-    "artist": "",
-    "link": "https://horizon.market/explorer/assets/MEETLENNY?marketsTab=swaps",
-    "image": "https://raw.githubusercontent.com/cutiemax/LFGCRYPTOART-COLLECTION-IMAGES/refs/heads/main/MEET%20LENNY.jpeg"
+    "issuance": 27,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/MEETLENNY",
+    "image": "https://arweave.net/Au4oXkc2FEQsgIu18AuxmPJCQJTXon4nLPwdalPAz4U/meetlenny.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 47,
+    "asset": "PEPEINCOMMON",
+    "issuance": 27,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEINCOMMON",
+    "image": "https://arweave.net/9VRAKQuusfXv4p5PAOlMDMh-VG_BFPuUlvqVAN3rqeY/pepeincommon.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 48,
+    "asset": "LFGBANANAS",
+    "issuance": 100,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGBANANAS",
+    "image": "https://arweave.net/HB31F8YCQYINZugJ6cUJJpZk1rokTDEGv6VTlXx2pVo/lfgbananas.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 49,
+    "asset": "CODYSAYSTHNX",
+    "issuance": 315,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/CODYSAYSTHNX",
+    "image": "https://arweave.net/D8Rx13JJP6Z2UIDLWRwLZm2PXUfVUSQ2nfEuJZ6sZco/codysaysthnx.jpg"
+  },
+  {
+    "series": "LFG1",
+    "card": 50,
+    "asset": "LFGROOM",
+    "issuance": 55,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGROOM",
+    "image": "https://arweave.net/L5lut4UL_Y1DeQwed1vsJgZkdkxBLZlnui9baQHfCbY/lfgroom.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 1,
+    "asset": "PEPEPAUL",
+    "issuance": 33,
+    "artist": "subterranean",
+    "link": "https://horizon.market/explorer/assets/PEPEPAUL",
+    "image": "https://arweave.net/Ui-500QieyPa0tPwODJXCKmBbtllxCY5QjmOqA3RhZ0/pepepaul.gif"
+  },
+  {
+    "series": "LFG2",
+    "card": 2,
+    "asset": "CHESSBOYS",
+    "issuance": 55,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/CHESSBOYS",
+    "image": "https://arweave.net/DYMM1X5VrBI9D-c16RfvAeMkqFCtCfwV6pNzOl-fMqs/chessboys.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 3,
+    "asset": "LFGOBSERVER",
+    "issuance": 55,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGOBSERVER",
+    "image": "https://arweave.net/TIFOp9Wkf7zkO1IGI1Vfe7JfTznVX09_R_riBnJskXs/lfgobserver.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 5,
+    "asset": "LFGAFRODITE",
+    "issuance": 33,
+    "artist": "Robenira",
+    "link": "https://horizon.market/explorer/assets/LFGAFRODITE",
+    "image": "https://arweave.net/kWAiQ3Uiwu5JS2uDgCksj8ForGxHmE-3thbBmq-vdrQ/lfgafrodite.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 7,
+    "asset": "LFGSPEAKER",
+    "issuance": 55,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGSPEAKER",
+    "image": "https://arweave.net/jOhi8v2JLeZOHQr2dJW5zbndrsNedG5oGvsMOk6gGQc/lfgspeaker.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 8,
+    "asset": "LFGCOLLECTOR",
+    "issuance": 222,
+    "artist": "BLISSFULMORG",
+    "link": "https://horizon.market/explorer/assets/LFGCOLLECTOR",
+    "image": "https://arweave.net/qZA791lfryjbkbKlXTCGaL5A7yOfk4EioESLZODFJJs/lfgcollector.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 9,
+    "asset": "EHOKAYPEPE",
+    "issuance": 169,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/EHOKAYPEPE",
+    "image": "https://arweave.net/Nd7KSKG6SXjAnaE-fkLuTdCltX30afncjG28OcwnNxo/ehokaypepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 10,
+    "asset": "LFGCHEKPOINT",
+    "issuance": 77,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/LFGCHEKPOINT",
+    "image": "https://arweave.net/xVcvSQ91Ds9XKxF2mPobqzMCU8YJJCGkom7qEhP1xRQ/lfgchekpoint.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 11,
+    "asset": "LFGPEPE",
+    "issuance": 69,
+    "artist": "TIZAR BERANDALAN",
+    "link": "https://horizon.market/explorer/assets/LFGPEPE",
+    "image": "https://arweave.net/uzU6pmOvz1trjdn7qVlDM261sCPwnt3MFpNCzgV96AU/lfgpepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 13,
+    "asset": "PEPEPRESS",
+    "issuance": 54,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEPRESS",
+    "image": "https://arweave.net/1RcuNoT1SKDDA9SoSUbUVgTw3thJInsESDH_MN5dlek/pepepress.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 14,
+    "asset": "SURFPEPE",
+    "issuance": 1000,
+    "artist": "Lycosfreak",
+    "link": "https://horizon.market/explorer/assets/SURFPEPE",
+    "image": "https://arweave.net/fZDr5tBU44lzmOBUeo8vjvKHuIfUrhOB2DGJ6Kdyct8/surfpepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 16,
+    "asset": "WAILINGWOJAK",
+    "issuance": 75,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/WAILINGWOJAK",
+    "image": "https://arweave.net/rEW628zhmKpCIqKXiLITaE3SoY3xn0pjpU89GsylP0M/wailingwojak.png"
+  },
+  {
+    "series": "LFG2",
+    "card": 17,
+    "asset": "KEKBTCPHLUG",
+    "issuance": 50,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/KEKBTCPHLUG",
+    "image": "https://arweave.net/3rrk5djjtKjLD1UpQjxme8K_eI6fSxLnc-gNzWVRHGA/kekbtcphlug.png"
+  },
+  {
+    "series": "LFG2",
+    "card": 18,
+    "asset": "LFGKEK",
+    "issuance": 28,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGKEK",
+    "image": "https://arweave.net/btX1Fpw1peuKoWUy3b732WeaAxCyihrxX0Kudx9GAhM/lfgkek.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 19,
+    "asset": "NATUREBOY",
+    "issuance": 88,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/NATUREBOY",
+    "image": "https://arweave.net/GPEl5DP5D18GK0i6AHQA595Rqi6-r1uY_3Q6v5E_k6s/natureboy.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 20,
+    "asset": "PEPENDOGE",
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/PEPENDOGE",
+    "image": "https://arweave.net/lcMBMzm-xTSdfHirzopRoWTMjkvtzIiMryNnDOiAn_U/pependoge.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 23,
+    "asset": "PEPESURE",
+    "issuance": 31,
+    "artist": "papeto",
+    "link": "https://horizon.market/explorer/assets/PEPESURE",
+    "image": "https://arweave.net/nCtyRcJk_JBjXh1mv3T4UyAZr8V8IE8kSVzAqblSM_A/pepesure.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 24,
+    "asset": "COPYPASTGOLD",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/COPYPASTGOLD",
+    "image": "https://arweave.net/U5ggzHRlrRy-1ixCsE3XNfWzpHPs129quRUbW1AcWSo/copypastgold.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 25,
+    "asset": "PEPELIKES",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPELIKES",
+    "image": "https://arweave.net/WRJKuIrogLjGIETWSTwSWJ5OXEG_5xNixhVTIGD9j9o/pepelikes.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 26,
+    "asset": "DOHPEPE",
+    "issuance": 18,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/DOHPEPE",
+    "image": "https://arweave.net/tPZ_GQ1Zw-rAvkDeVKuKittSBAMEx_8HkY50MnVg3GU/dohpepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 27,
+    "asset": "DUHPEPE",
+    "issuance": 18,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/DUHPEPE",
+    "image": "https://arweave.net/KYezj627d423w-XCxhD0lEVVR6yduxK0ORcQGS8h2_I/duhpepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 28,
+    "asset": "FULLFUGGEM",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/FULLFUGGEM",
+    "image": "https://arweave.net/tyLw12MdfOzBrCPKtkxqTsE1dwo4gImTl8wzHR05qBQ/fullfuggem.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 29,
+    "asset": "GASPPEPE",
+    "issuance": 18,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/GASPPEPE",
+    "image": "https://arweave.net/GFHDwEaYKVZhHc7vVVzm8lAl-z21mqKPi12aEpUqyrc/gasppepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 30,
+    "asset": "INCOGNTOPEPE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/INCOGNTOPEPE",
+    "image": "https://arweave.net/4QncBdST-JFvfsxtLC9640yKcEgAW59U1KU7Uojdh7Q/incogntopepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 31,
+    "asset": "LFGXCHAIN",
+    "issuance": 5,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LFGXCHAIN",
+    "image": "https://arweave.net/K1vVTwOcqDFGWM03VaIXMrSr9yHXEaSwgSrNAEnyJ7I/lfgxchain.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 32,
+    "asset": "MELTFACES",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/MELTFACES",
+    "image": "https://arweave.net/Gn17wYjenUBAbm--LfXLelsigycP1nqwsQfvmARwIXs/meltfaces.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 33,
+    "asset": "MYSOUP",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/MYSOUP",
+    "image": "https://arweave.net/3kdc9_6dJ-CfcwuWoouq06wF9T4odejUzubVA70VfRU/mysoup.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 34,
+    "asset": "PEPELIKALOT",
+    "issuance": 15,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPELIKALOT",
+    "image": "https://arweave.net/2wccXZtGmFdMFfkqQZ_PfYmQdNhFLzs-Kcw2srh7QEU/pepelikalot.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 35,
+    "asset": "PEPEMEH",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEMEH",
+    "image": "https://arweave.net/NeqPLnJP1l3fMqYxl0AJcRPayPfNC-bzDFYU_X0H3-I/pepemeh.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 36,
+    "asset": "PEPENOLIKE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPENOLIKE",
+    "image": "https://arweave.net/9LWoLUlKM98VFtA2x-eq2k8poNGoFC0Btw5w5YtmKL8/pepenolike.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 37,
+    "asset": "PEPESMIRK",
+    "issuance": 33,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPESMIRK",
+    "image": "https://arweave.net/60WwmD9e8zAuz0IdW5WzOn5H0q-aADvh6cpsDRGENSM/pepesmirk.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 38,
+    "asset": "TOOFUNNYPEPE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/TOOFUNNYPEPE",
+    "image": "https://arweave.net/plZztxHQ9rnQ8NYxb5cSILXoJgLfsfaH7YkwZDMcy1g/toofunnypepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 39,
+    "asset": "EGOROYALE",
+    "issuance": 69,
+    "artist": "papeto",
+    "link": "https://horizon.market/explorer/assets/EGOROYALE",
+    "image": "https://arweave.net/-mBODcESIE3YmGVaVAcGRXwYq7rAGhebHrHwwqwI71U/egoroyale.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 41,
+    "asset": "COATOFARMS",
+    "issuance": 10000,
+    "artist": "Lycosfreak",
+    "link": "https://horizon.market/explorer/assets/COATOFARMS",
+    "image": "https://arweave.net/LLcr7H6uuiRvuzu4HAf5azJwhTy8aoSXAHlr5YZWmBg/coatofarms.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 42,
+    "asset": "PEPECOCK",
+    "issuance": 10000,
+    "artist": "Lycosfreak",
+    "link": "https://horizon.market/explorer/assets/PEPECOCK",
+    "image": "https://arweave.net/Budx69Lm2TsYjfig82j035jhD6POtIvqz3JYHG6QPbA/pepecock.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 43,
+    "asset": "MARKYMARK",
+    "issuance": 10000,
+    "artist": "Lycosfreak",
+    "link": "https://horizon.market/explorer/assets/MARKYMARK",
+    "image": "https://arweave.net/PlXpUm6gZyP2niuAUWXCkN6JHTA7ITVrj1arBqb_68E/markymark.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 44,
+    "asset": "JECKALISLAND",
+    "issuance": 31,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/JECKALISLAND",
+    "image": "https://arweave.net/GKhKxDQqVanss-8hBZ0-ef9cC2luAzQ5I_UmHEufsyc/jeckalisland.png"
+  },
+  {
+    "series": "LFG2",
+    "card": 45,
+    "asset": "SIDEPEPE",
+    "issuance": 5,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/SIDEPEPE",
+    "image": "https://arweave.net/Ku11E3J-UvidIhnqUTv-6-Vz_Py3f46BA-RHAzZ8jRM/sidepepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 46,
+    "asset": "LFGQUEEN",
+    "issuance": 200,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/LFGQUEEN",
+    "image": "https://arweave.net/qCIslbOxHcdfe3XggUkH4srCwbOz31mz-iqovtatwq4/lfgqueen.png"
+  },
+  {
+    "series": "LFG2",
+    "card": 47,
+    "asset": "NAKAAFRICA",
+    "issuance": 250,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/NAKAAFRICA",
+    "image": "https://arweave.net/WmUVUONZc1qEw8RFp7yuDIWH0Abk-x5Q4hETbX9tc1c/nakaafrica.png"
+  },
+  {
+    "series": "LFG2",
+    "card": 48,
+    "asset": "WINNERPEPE",
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/WINNERPEPE",
+    "image": "https://arweave.net/QQNjkU_O_MoXs2ZKYXbpIW29rJASGDOO32GLo-ocbXM/winnerpepe.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 49,
+    "asset": "PEPEHOLDINGS",
+    "issuance": 150,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/PEPEHOLDINGS",
+    "image": "https://arweave.net/sJ8-olxriXeKUzDyhMbDQ4p3JvrfJvdytzweOu4r3wQ/pepeholdings.jpg"
+  },
+  {
+    "series": "LFG2",
+    "card": 50,
+    "asset": "A9735376114921552403",
+    "issuance": 42,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/A9735376114921552403",
+    "image": "https://arweave.net/1KRn_6aCS8qy4Mw3XLIQZYGQKFnBSeHW9qNeHFaUJg0/A9735376114921552403.png"
+  },
+  {
+    "series": "LFG3",
+    "card": 2,
+    "asset": "PROOFOFMIND",
+    "issuance": 100,
+    "artist": "Robenira",
+    "link": "https://horizon.market/explorer/assets/PROOFOFMIND",
+    "image": "https://arweave.net/parq6Ob2IVhUMkezXfkYeUIhX1jIx8CVB39TFPQxcww/proofofmind.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 4,
+    "asset": "DOITPEPE",
+    "issuance": 40,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/DOITPEPE",
+    "image": "https://arweave.net/JBQZSL5oHitHnTAqBG5mJ5Q8SSDTuGDjZNnN8oOpHDo/doitpepe.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 5,
+    "asset": "LOWFEEKING",
+    "issuance": 50,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/LOWFEEKING",
+    "image": "https://arweave.net/aqF65aAsZCg-bATfeT2ZwbYDNQVG6l6CLgQhP5jCcIQ/lowfeeking.gif"
+  },
+  {
+    "series": "LFG3",
+    "card": 6,
+    "asset": "PEPEPINUP",
+    "issuance": 27,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEPINUP",
+    "image": "https://arweave.net/ktMccTvWJn_TS4XejpGE9L_qkKy0wlisuH6bdaoJ3MM/pepepinup.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 7,
+    "asset": "PEPEAWAY",
+    "issuance": 150,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/PEPEAWAY",
+    "image": "https://arweave.net/4SvmfO3Ane5Rrh2Y3T194Pb9Q0ebsmhKTjpcBzgAGkg/pepeaway.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 10,
+    "asset": "MOVINGPEPE",
+    "issuance": 150,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/MOVINGPEPE",
+    "image": "https://arweave.net/bvzNWm7seazYCrcCOxtUVQfcGxSaUSOo__Nu42j5FeI/movingpepe.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 11,
+    "asset": "JUNETHIRD",
+    "issuance": 13,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/JUNETHIRD",
+    "image": "https://arweave.net/YtiLcaVHV5-allZaiOhM5YPdeRuKUOPKN-fINOjkA1w/junethird.png"
+  },
+  {
+    "series": "LFG3",
+    "card": 12,
+    "asset": "ONETWENTYK",
+    "issuance": 120,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/ONETWENTYK",
+    "image": "https://arweave.net/sYlPSXe-RLOBMkHUqtyWcQR5pKFYGi8My8x5nciOTX0/onetwentyk.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 13,
+    "asset": "ITSCOMMING",
+    "issuance": 135,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/ITSCOMMING",
+    "image": "https://arweave.net/kQD7KNXiK1ioN8DrVvTwl_aIyRoZdbnjrGF5VxyOCv0/itscomming.png"
+  },
+  {
+    "series": "LFG3",
+    "card": 14,
+    "asset": "PEPEBUNDANCE",
+    "issuance": 200,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/PEPEBUNDANCE",
+    "image": "https://arweave.net/NovKz__q7wJydw7yjvkjUlW12ThIT1Xo5KJNpQvR_vU/pepebundance.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 15,
+    "asset": "WEALTHYPEPE",
+    "issuance": 150,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/WEALTHYPEPE",
+    "image": "https://arweave.net/huWwdSiYAzZdpJRLIXeRxi9bia-LX90vyZVRkST0apg/wealthypepe.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 16,
+    "asset": "KONTORONBTC",
+    "issuance": 18,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/KONTORONBTC",
+    "image": "https://arweave.net/xF0lPqVHPLaNG3q7PalHRw3g0ZwX6lgLJ3itgacOktM/kontoronbtc.png"
+  },
+  {
+    "series": "LFG3",
+    "card": 17,
+    "asset": "BEDAYPEPE",
+    "issuance": 2100,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/BEDAYPEPE",
+    "image": "https://arweave.net/ZHtxsy9JckLI1ysmPeblcXMxxXZazVZk-i0dLaknO1Y/bedaypepe.png"
+  },
+  {
+    "series": "LFG3",
+    "card": 18,
+    "asset": "CHIAROSCURO",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/CHIAROSCURO",
+    "image": "https://arweave.net/QhvB1YwQ8JLJa7posYp9ZmiRmQN9qFHzVRx412I5BCY/chiaroscuro.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 19,
+    "asset": "HOPEINPEPE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/HOPEINPEPE",
+    "image": "https://arweave.net/_f3575NiViOG72-Z1g7CE6pXTs8R6kB-rIBAs9vtmDQ/hopeinpepe.jpg"
+  },
+  {
+    "series": "LFG3",
+    "card": 20,
+    "asset": "FAKEOLDFROG",
+    "issuance": 350,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/FAKEOLDFROG",
+    "image": "https://arweave.net/VgZ9PEGrZQjedpW4MUDyW61td2fKiafrmSKlZzP5U0A/fakeoldfrog.png"
   }
 ]
