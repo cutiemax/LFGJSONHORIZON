@@ -808,5 +808,158 @@
     "artist": "RAHVO",
     "link": "https://horizon.market/explorer/assets/FAKEOLDFROG",
     "image": "https://arweave.net/VgZ9PEGrZQjedpW4MUDyW61td2fKiafrmSKlZzP5U0A/fakeoldfrog.png"
+  },
+{
+    "series": "LFG3",
+    "card": 25,
+    "asset": "FRIENDLYFIRE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/FRIENDLYFIRE",
+    "image": "https://arweave.net/L9hXFx_MQjyjhdBTzpx3aJ48jq9nTe9f2cXJeDN-UrI/friendlyfire.png"
+  },
+{
+    "series": "LFG3",
+    "card": 26,
+    "asset": "CODYSIMPSON",
+    "issuance": 21,
+    "artist": "Simon Morris",
+    "link": "https://horizon.market/explorer/assets/CODYSIMPSON",
+    "image": "https://arweave.net/ffz0guHmWIKUogzHBt_2AUyv7wiCTjZzuDvcGXJbliA/codysimpson.png"
+  },
+{
+    "series": "LFG3",
+    "card": 27,
+    "asset": "RAREERIC",
+    "issuance": 47,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/RAREERIC",
+    "image": "https://arweave.net/IjDzCXroutt-KmjXpLv6oM6GRxtwUJ3fnsu7s1Ng5Ao/rareeric.png"
+  },
+{
+    "series": "LFG3",
+    "card": 28,
+    "asset": "RAREKEKXMAS",
+    "issuance": 350,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/RAREKEKXMAS",
+    "image": "https://arweave.net/0QYkczaTNAs4pSV31g03_COew5l8dosjaBNU2fcS01E/rarekekxmas.png"
+  },
+{
+    "series": "LFG3",
+    "card": 29,
+    "asset": "YESSSSPEPE",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/YESSSSPEPE",
+    "image": "https://arweave.net/dH5jGhCrHhCYj97lRkI72fdqOUUCkF3G-2Rehr8Ozc0/yesssspepe.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 30,
+    "asset": "PEPEISBLISS",
+    "issuance": 21,
+    "artist": "Cody the Campbell",
+    "link": "https://horizon.market/explorer/assets/PEPEISBLISS",
+    "image": "https://arweave.net/PBvV_q_L6-nxImjkLuZ_lipVA0j6KWYAqMlI16bmWvM/pepeisbliss.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 31,
+    "asset": "FROGPROPHET",
+    "issuance": 100,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/FROGPROPHET",
+    "image": "https://arweave.net/xceS5VcBKoe71X2FZlMgrXxRJB1ziFSh2BbCMiSQj8o/frogprophet.png"
+  },
+{
+    "series": "LFG3",
+    "card": 32,
+    "asset": "PEPEFIESTA",
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/FAKEOLDFROG",
+    "image": "https://arweave.net/VgZ9PEGrZQjedpW4MUDyW61td2fKiafrmSKlZzP5U0A/fakeoldfrog.png"
+  },
+{
+    "series": "LFG3",
+    "card": 33,
+    "asset": "KEKLOSOPHY",
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/KEKLOSOPHY",
+    "image": "https://arweave.net/GayGYNWR-c-Tiw8_Q0-rmP4h8KY0tQbh1OBugu1urD8/keklosophy.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 34,
+    "asset": "GARDENPEPE",
+    "issuance": 100,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/GARDENPEPE",
+    "image": "https://arweave.net/YS9UJ3-vNZP9nFsOVTKKYkxw49iNU7nmJPWMIWrjXiA/gardenpepe.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 35,
+    "asset": "BEMINEPEPE",
+    "issuance": 150,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/BEMINEPEPE",
+    "image": "https://arweave.net/bzUxmAajy9pVGylH8HkIvA3op-irzoRMEQeQKcOrXNI/beminepepe.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 36,
+    "asset": "KNOTSKAMOTO",
+    "issuance": 70,
+    "artist": "Bbleiztz",
+    "link": "https://horizon.market/explorer/assets/KNOTSKAMOTO",
+    "image": "https://arweave.net/XFymQvzjv9BQZY0frEa5VyzaYFi-GJiZn57wGNRtBiU/knotskamoto.png"
+  },
+{
+    "series": "LFG3",
+    "card": 37,
+    "asset": "CHASINGPEPE",
+    "issuance": 111,
+    "artist": "Bbleiztz",
+    "link": "https://horizon.market/explorer/assets/CHASINGPEPE",
+    "image": "https://arweave.net/9EBmuQllBhyRv0azcASBf5-SGJU7QzOMuhnN1wHYjzE/chasingpepe.gif"
+  },
+{
+    "series": "LFG3",
+    "card": 38,
+    "asset": "SATASHI",
+    "issuance": 69,
+    "artist": "Bbleiztz",
+    "link": "https://horizon.market/explorer/assets/SATASHI",
+    "image": "https://arweave.net/GCsMprXKmmOJfeZUHiKuGgnWmiyHi70Azi7ZQUkO7os/satashi.png"
+  },
+{
+    "series": "LFG3",
+    "card": 39,
+    "asset": "THEMYSTICPEP",
+    "issuance": 200,
+    "artist": "Emperor Western",
+    "link": "https://horizon.market/explorer/assets/THEMYSTICPEP",
+    "image": "https://arweave.net/PhHIfB0kGy26cPbXcXmV9YxBsYIgKR5yDmJc0fNl-p4/themysticpep.jpg"
+  },
+{
+    "series": "LFG3",
+    "card": 40,
+    "asset": "FROGNATION",
+    "issuance": 350,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/FROGNATION",
+    "image": "https://arweave.net/8zFwyWYopndY6fACuadsVPrFtBPt9IWKjPm_Brb1K64/frognation.png"
+  },
+{
+    "series": "LFG3",
+    "card": 41,
+    "asset": "FROGSLAVERY",
+    "issuance": 250,
+    "artist": "RAHVO",
+    "link": "https://horizon.market/explorer/assets/FROGSLAVERY",
+    "image": "https://arweave.net/M36CHkg5EqfYZR9kFN2fWfr1zPwehRhXtnl_RKoYvN8/frogslavery.png"
   }
 ]
